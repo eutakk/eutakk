@@ -2,5 +2,5 @@
 ## Tak 🧙‍♂️
 - 🔭 I’m currently working on mineflayer
 - 🌱 I’m currently learning javascript and QML👨‍💻
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I hate confused girls
